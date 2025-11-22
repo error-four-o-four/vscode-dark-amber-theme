@@ -1,0 +1,46 @@
+{
+  "name": "vscode-dark-amber-theme",
+  "displayName": "Dark Amber VSCode Theme",
+  "description": "Yet another theme ...",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "galleryBanner": {
+    "color": "#FFBF00",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Color",
+    "Themes",
+    "Dark",
+    "Amber"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Amber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-amber-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/error-four-o-four/vscode-dark-amber.git"
+  },
+  "scripts": {
+    "cleanup": "node --experimental-transform-types ./scripts/cleanup.ts",
+    "bundle": "vsce package"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.1",
+    "@vscode/vsce": "^3.6.2"
+  }
+}
