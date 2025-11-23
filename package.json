@@ -41,6 +41,7 @@
     "cleanup": "node --experimental-transform-types ./scripts/cleanup.ts",
     "bundle": "vsce package"
   },
+  "packageManager": "^pnpm@10.23.0",
   "devDependencies": {
     "@types/node": "^24.8.1",
     "@vscode/vsce": "^3.6.2"
