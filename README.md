@@ -10,10 +10,10 @@ Yet another VSCode Theme ...
 
 <br />
 
-![javascript](assets/javascript.png)
+![javascript](https://raw.githubusercontent.com/error-four-o-four/vscode-dark-amber-theme/main/assets/javascript.png)
 
 <br />
 
 <br />
 
-![general](assets/general.png)
+![general](https://raw.githubusercontent.com/error-four-o-four/vscode-dark-amber-theme/main/assets/general.png)

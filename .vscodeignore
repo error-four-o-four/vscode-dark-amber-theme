@@ -2,8 +2,7 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
-assets/tmp/**
-assets/*.psd
+assets/**
 demo/**
 scripts/**
 themes/dark-amber-color-theme-base.json
