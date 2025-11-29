@@ -16,4 +16,4 @@ Yet another VSCode Theme ...
 
 <br />
 
-![typescript](assets/typescript.png)
+![general](assets/general.png)
