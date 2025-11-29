@@ -1,6 +1,6 @@
 {
   "name": "vscode-dark-amber-theme",
-  "icon": "./assets/theme_icon.png",
+  "icon": "theme_icon.png",
   "publisher": "error-four-o-four",
   "displayName": "Dark Amber VSCode Theme",
   "description": "Yet another theme ...",
